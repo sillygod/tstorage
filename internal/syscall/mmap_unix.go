@@ -1,4 +1,4 @@
-// +build !windows,!plan9
+// +build darwin dragonfly freebsd linux openbsd solaris netbsd
 
 package syscall
 
